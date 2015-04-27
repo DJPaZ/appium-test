@@ -1,0 +1,13 @@
+# IDE settings #
+###################
+*.iml
+*.idea
+*.ipr
+*.iws
+*/.idea
+
+# Compiled source #
+###################
+*.class
+*/target/*
+target
